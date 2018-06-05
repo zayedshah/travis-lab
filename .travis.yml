@@ -7,4 +7,4 @@ python:
 script:
 
   - python hello.py
-  - python hell0_01.py
+  - python hello_01.py
